@@ -2,7 +2,7 @@
 
 ## Description
 
-Welcome to the Rock Paper Scissors game! 🎮 This classic hand game is now available as a web-based application where you can challenge an AI opponent. The game follows the traditional rules: Rock crushes Scissors, Scissors cuts Paper, and Paper covers Rock.
+Welcome to the [Rock Paper Scissors game!](https://ajitsinghx.github.io/RockPaperScissor/) 🎮 This classic hand game is now available as a web-based application where you can challenge an AI opponent. The game follows the traditional rules: Rock crushes Scissors, Scissors cuts Paper, and Paper covers Rock.
 
 Play against the AI, track your scores, and enjoy a fun, interactive experience with a modern interface. 🚀
 
